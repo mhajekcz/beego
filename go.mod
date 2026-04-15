@@ -1,6 +1,6 @@
 module github.com/beego/beego/v2
 
-go 1.24.2
+go 1.25.0
 
 require (
 	github.com/beego/x2j v0.0.0-20131220205130-a0352aadc542
@@ -37,7 +37,7 @@ require (
 	go.opentelemetry.io/otel/sdk v1.36.0
 	go.opentelemetry.io/otel/trace v1.36.0
 	golang.org/x/crypto v0.38.0
-	golang.org/x/sync v0.15.0
+	golang.org/x/sync v0.20.0
 	google.golang.org/grpc v1.72.1
 	google.golang.org/protobuf v1.36.6
 	gopkg.in/yaml.v3 v3.0.1
